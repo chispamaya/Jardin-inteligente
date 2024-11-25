@@ -1,11 +1,19 @@
 # Jardin inteligente
-Grupo 5
+El jardín inteligente cumple funcionalidades tales como:
+- Riego automatico
+- Iluminación inteligente
+- Muestra de datos por display 16x2
 
 # Integrantes
 Gastón Amaya - Ignacio Cordoba - Leonardo Arenas - Malena Nuñez
 
-# Especialidad en Computación, Escuela Técnica N°32 D.E. 14
+# Especialidad  
+Computación
 
-# 4to2da: Proyecto Informático
+# Curso y materia
+4to2da: Proyecto Informático
+
 # Profesor
 Gonzalo N. Consorti
+
+# Escuela Técnica N°32 D.E. 14
