@@ -1,5 +1,5 @@
 # Jardin inteligente
-    Grupo 5
+Grupo 5
 
 # Integrantes
 Gastón Amaya - Ignacio Cordoba - Leonardo Arenas - Malena Nuñez
