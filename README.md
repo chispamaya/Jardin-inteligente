@@ -1,8 +1,11 @@
 # Jardin inteligente
 El jardín inteligente cumple funcionalidades tales como:
+- Medidor de humedad ambiental
+- Medidor de Temperatura ambiental
+- Medidor de luz ambiental
 - Riego automatico
 - Iluminación inteligente
-- Muestra de datos por display 16x2
+- Muestra de datos por display I2C
 
 # Integrantes
 Gastón Amaya - Ignacio Cordoba - Leonardo Arenas - Malena Nuñez
